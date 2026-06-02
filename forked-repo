@@ -1,0 +1,99 @@
+StatusCode        : 200
+StatusDescription : OK
+Content           :
+
+
+
+
+
+                    <!DOCTYPE html>
+                    <html
+                      lang="en"
+
+                      data-color-mode="auto" data-light-theme="light" data-dark-theme="dark"
+                      data-a11y-animated-images="system" data-a11y-link-underlines="true"
+
+                      >
+
+
+
+
+                      <...
+RawContent        : HTTP/1.1 200 OK
+                    Vary: X-PJAX, X-PJAX-Container, Turbo-Visit, Turbo-Frame, X-Requested-With, Sec-Fetch-Site,Accept-Encoding, Accept, X-Requested-With
+                    Strict-Transport-Security: max-age=31536000; incl...
+Forms             : {query-builder-test-form, code-search-feedback-form, custom-scopes-dialog-form}
+Headers           : {[Vary, X-PJAX, X-PJAX-Container, Turbo-Visit, Turbo-Frame, X-Requested-With, Sec-Fetch-Site,Accept-Encoding, Accept, X-Requested-With], [Strict-Transport-Security, max-age=31536000;
+                    includeSubdomains; preload], [X-Frame-Options, deny], [X-Content-Type-Options, nosniff]...}
+Images            : {}
+InputFields       : {@{innerHTML=; innerText=; outerHTML=<INPUT class=js-site-search-type-field type=hidden name=type>; outerText=; tagName=INPUT; class=js-site-search-type-field; type=hidden; name=type},
+                    @{innerHTML=; innerText=; outerHTML=<INPUT aria-expanded=false spellcheck=false role=combobox aria-describedby=validation-7da3273b-60fa-4a6b-a6be-d943fdeb5698 id=query-builder-test
+                    class="FormControl-input QueryBuilder-Input FormControl-medium" name=query-builder-test data-view-component="true" data-target="query-builder.input" data-action="&#10;
+                    input:query-builder#inputChange&#10;          blur:query-builder#inputBlur&#10;          keydown:query-builder#inputKeydown&#10;          focus:query-builder#inputFocus&#10;        "
+                    autocomplete="off">; outerText=; tagName=INPUT; aria-expanded=false; spellcheck=false; role=combobox; aria-describedby=validation-7da3273b-60fa-4a6b-a6be-d943fdeb5698;
+                    id=query-builder-test; class=FormControl-input QueryBuilder-Input FormControl-medium; name=query-builder-test; data-view-component=true; data-target=query-builder.input; data-action=&#10;
+                            input:query-builder#inputChange&#10;          blur:query-builder#inputBlur&#10;          keydown:query-builder#inputKeydown&#10;          focus:query-builder#inputFocus&#10;
+                    ; autocomplete=off}, @{innerHTML=; innerText=; outerHTML=<INPUT type=hidden value=TSdwI75rlXtOPwV8DSLCVO3fzvdgKYCj1CfUkzBj2lO+kT6WwjJO/D2si9IjSlySPWouBYa8sXzCZMJJqoFZfw==
+                    name=authenticity_token data-csrf="true">; outerText=; tagName=INPUT; type=hidden; value=TSdwI75rlXtOPwV8DSLCVO3fzvdgKYCj1CfUkzBj2lO+kT6WwjJO/D2si9IjSlySPWouBYa8sXzCZMJJqoFZfw==;
+                    name=authenticity_token; data-csrf=true}, @{innerHTML=; innerText=; outerHTML=<INPUT aria-label="Include my email address so I can be contacted" id=include_email class="form-control mr-2"
+                    type=checkbox value="" name=include_email>; outerText=; tagName=INPUT; aria-label=Include my email address so I can be contacted; id=include_email; class=form-control mr-2; type=checkbox;
+                    value=; name=include_email}...}
+Links             : {@{innerHTML=Skip to content; innerText=Skip to content; outerHTML=<A class="px-2 tmp-py-4 color-bg-accent-emphasis color-fg-on-emphasis show-on-focus js-skip-to-content"
+                    href="#start-of-content" data-skip-target-assigned="false">Skip to content</A>; outerText=Skip to content; tagName=A; class=px-2 tmp-py-4 color-bg-accent-emphasis color-fg-on-emphasis
+                    show-on-focus js-skip-to-content; href=#start-of-content; data-skip-target-assigned=false}, @{innerHTML=<SVG aria-hidden=true class="octicon octicon-mark-github" data-view-component="true"
+                    width="32" version="1.1" viewBox="0 0 24 24" data-component="Octicon" height="32"><PATH d="M10.226 17.284c-2.965-.36-5.054-2.493-5.054-5.256 0-1.123.404-2.336
+                    1.078-3.144-.292-.741-.247-2.314.09-2.965.898-.112 2.111.36 2.83 1.01.853-.269 1.752-.404 2.853-.404 1.1 0 1.999.135 2.807.382.696-.629 1.932-1.1 2.83-.988.315.606.36 2.179.067
+                    2.942.72.854 1.101 2 1.101 3.167 0 2.763-2.089 4.852-5.098 5.234.763.494 1.28 1.572 1.28 2.807v2.336c0 .674.561 1.056 1.235.786 4.066-1.55 7.255-5.615 7.255-10.646C23.5 6.188 18.334 1
+                    11.978 1 5.62 1 .5 6.188.5 12.545c0 4.986 3.167 9.12 7.435 10.669.606.225 1.19-.18 1.19-.786V20.63a2.9 2.9 0 0 1-1.078.224c-1.483
+                    0-2.359-.808-2.987-2.313-.247-.607-.517-.966-1.034-1.033-.27-.023-.359-.135-.359-.27 0-.27.45-.471.898-.471.652 0 1.213.404 1.797 1.235.45.651.921.943 1.483.943.561 0 .92-.202
+                    1.437-.719.382-.381.674-.718.944-.943"></PATH></SVG>; innerText=; outerHTML=<A aria-label=Homepage class="tmp-mr-lg-3 color-fg-inherit flex-order-2 js-prevent-focus-on-mobile-nav" href="/"
+                    data-analytics-event='{"category":"Marketing nav","action":"click to go to homepage","label":"ref_page:Marketing;ref_cta:Logomark;ref_loc:Header"}'><SVG aria-hidden=true class="octicon
+                    octicon-mark-github" data-view-component="true" width="32" version="1.1" viewBox="0 0 24 24" data-component="Octicon" height="32"><PATH d="M10.226 17.284c-2.965-.36-5.054-2.493-5.054-5.256
+                    0-1.123.404-2.336 1.078-3.144-.292-.741-.247-2.314.09-2.965.898-.112 2.111.36 2.83 1.01.853-.269 1.752-.404 2.853-.404 1.1 0 1.999.135 2.807.382.696-.629 1.932-1.1 2.83-.988.315.606.36
+                    2.179.067 2.942.72.854 1.101 2 1.101 3.167 0 2.763-2.089 4.852-5.098 5.234.763.494 1.28 1.572 1.28 2.807v2.336c0 .674.561 1.056 1.235.786 4.066-1.55 7.255-5.615 7.255-10.646C23.5 6.188
+                    18.334 1 11.978 1 5.62 1 .5 6.188.5 12.545c0 4.986 3.167 9.12 7.435 10.669.606.225 1.19-.18 1.19-.786V20.63a2.9 2.9 0 0 1-1.078.224c-1.483
+                    0-2.359-.808-2.987-2.313-.247-.607-.517-.966-1.034-1.033-.27-.023-.359-.135-.359-.27 0-.27.45-.471.898-.471.652 0 1.213.404 1.797 1.235.45.651.921.943 1.483.943.561 0 .92-.202
+                    1.437-.719.382-.381.674-.718.944-.943"></PATH></SVG></A>; outerText=; tagName=A; aria-label=Homepage; class=tmp-mr-lg-3 color-fg-inherit flex-order-2 js-prevent-focus-on-mobile-nav;
+                    href=/; data-analytics-event={"category":"Marketing nav","action":"click to go to homepage","label":"ref_page:Marketing;ref_cta:Logomark;ref_loc:Header"}}, @{innerHTML=Sign in ;
+                    innerText=Sign in ; outerHTML=<A class="HeaderMenu-link HeaderMenu-button d-inline-flex f5 no-underline border color-border-default rounded-2 px-2 py-1 color-fg-inherit
+                    js-prevent-focus-on-mobile-nav" href="/login?return_to=https%3A%2F%2Fgithub.com%2Fgevorgjemen%2Fmcino-Introduction-to-Git-and-GitHub" data-analytics-event='{"category":"Marketing
+                    nav","action":"click to Sign in","label":"ref_page:Marketing;ref_cta:Sign in;ref_loc:Header"}' data-hydro-click-hmac="928009993f950408e83ddc4d367cb5b937d59ad5be5d916f9e0591e24f7bd6e5"
+                    data-hydro-click='{"event_type":"authentication.click","payload":{"location_in_page":"site header
+                    menu","repository_id":null,"auth_type":"SIGN_UP","originating_url":"https://github.com/gevorgjemen/mcino-Introduction-to-Git-and-GitHub","user_id":null}}'>Sign in </A>; outerText=Sign in ;
+                    tagName=A; class=HeaderMenu-link HeaderMenu-button d-inline-flex f5 no-underline border color-border-default rounded-2 px-2 py-1 color-fg-inherit js-prevent-focus-on-mobile-nav;
+                    href=/login?return_to=https%3A%2F%2Fgithub.com%2Fgevorgjemen%2Fmcino-Introduction-to-Git-and-GitHub; data-analytics-event={"category":"Marketing nav","action":"click to Sign
+                    in","label":"ref_page:Marketing;ref_cta:Sign in;ref_loc:Header"}; data-hydro-click-hmac=928009993f950408e83ddc4d367cb5b937d59ad5be5d916f9e0591e24f7bd6e5;
+                    data-hydro-click={"event_type":"authentication.click","payload":{"location_in_page":"site header
+                    menu","repository_id":null,"auth_type":"SIGN_UP","originating_url":"https://github.com/gevorgjemen/mcino-Introduction-to-Git-and-GitHub","user_id":null}}}, @{innerHTML=<DIV
+                    class=NavLink-module__text__XvpLQ><SVG aria-hidden=true class="octicon octicon-copilot NavLink-module__icon__ltGNM" style="VERTICAL-ALIGN: text-bottom" width="24" viewBox="0 0 24 24"
+                    data-component="Octicon" height="24" overflow="visible" display="inline-block" fill="currentColor" focusable="false"><PATH d="M23.922 16.992c-.861 1.495-5.859 5.023-11.922 5.023-6.063
+                    0-11.061-3.528-11.922-5.023A.641.641 0 0 1 0 16.736v-2.869a.841.841 0 0 1 .053-.22c.372-.935 1.347-2.292 2.605-2.656.167-.429.414-1.055.644-1.517a10.195 10.195 0 0
+                    1-.052-1.086c0-1.331.282-2.499 1.132-3.368.397-.406.89-.717 1.474-.952 1.399-1.136 3.392-2.093 6.122-2.093 2.731 0 4.767.957 6.166 2.093.584.235 1.077.546 1.474.952.85.869 1.132 2.037
+                    1.132 3.368 0 .368-.014.733-.052 1.086.23.462.477 1.088.644 1.517 1.258.364 2.233 1.721 2.605 2.656a.832.832 0 0 1 .053.22v2.869a.641.641 0 0 1-.078.256ZM12.172 11h-.344a4.323 4.323 0 0
+                    1-.355.508C10.703 12.455 9.555 13 7.965 13c-1.725 0-2.989-.359-3.782-1.259a2.005 2.005 0 0 1-.085-.104L4 11.741v6.585c1.435.779 4.514 2.179 8 2.179 3.486 0 6.565-1.4
+                    8-2.179v-6.585l-.098-.104s-.033.045-.085.104c-.793.9-2.057 1.259-3.782 1.259-1.59 0-2.738-.545-3.508-1.492a4.323 4.323 0 0 1-.355-.508h-.016.016Zm.641-2.935c.136 1.057.403 1.913.878
+                    2.497.442.544 1.134.938 2.344.938 1.573 0 2.292-.337 2.657-.751.384-.435.558-1.15.558-2.361
+                    0-1.14-.243-1.847-.705-2.319-.477-.488-1.319-.862-2.824-1.025-1.487-.161-2.192.138-2.533.529-.269.307-.437.808-.438 1.578v.021c0 .265.021.562.063.893Zm-1.626
+                    0c.042-.331.063-.628.063-.894v-.02c-.001-.77-.169-1.271-.438-1.578-.341-.391-1.046-.69-2.533-.529-1.505.163-2.347.537-2.824 1.025-.462.472-.705 1.179-.705 2.319 0 1.211.175 1.926.558
+                    2.361.365.414 1.084.751 2.657.751 1.21 0 1.902-.394 2.344-.938.475-.584.742-1.44.878-2.497Z"></PATH><PATH d="M14.5 14.25a1 1 0 0 1 1 1v2a1 1 0 0 1-2 0v-2a1 1 0 0 1 1-1Zm-5 0a1 1 0 0 1 1
+                    1v2a1 1 0 0 1-2 0v-2a1 1 0 0 1 1-1Z"></PATH></SVG><SPAN class=NavLink-module__title__Q7t0p>GitHub Copilot</SPAN><SPAN class=NavLink-module__subtitle__X4gkW>Write better code with
+                    AI</SPAN></DIV>; innerText=GitHub Copilot
+                    Write better code with AI; outerHTML=<A class=NavLink-module__link__EG3d4 href="https://github.com/features/copilot"
+                    data-analytics-event='{"action":"github_copilot","tag":"link","context":"platform","location":"navbar","label":"github_copilot_link_platform_navbar"}'><DIV
+                    class=NavLink-module__text__XvpLQ><SVG aria-hidden=true class="octicon octicon-copilot NavLink-module__icon__ltGNM" style="VERTICAL-ALIGN: text-bottom" width="24" viewBox="0 0 24 24"
+                    data-component="Octicon" height="24" overflow="visible" display="inline-block" fill="currentColor" focusable="false"><PATH d="M23.922 16.992c-.861 1.495-5.859 5.023-11.922 5.023-6.063
+                    0-11.061-3.528-11.922-5.023A.641.641 0 0 1 0 16.736v-2.869a.841.841 0 0 1 .053-.22c.372-.935 1.347-2.292 2.605-2.656.167-.429.414-1.055.644-1.517a10.195 10.195 0 0
+                    1-.052-1.086c0-1.331.282-2.499 1.132-3.368.397-.406.89-.717 1.474-.952 1.399-1.136 3.392-2.093 6.122-2.093 2.731 0 4.767.957 6.166 2.093.584.235 1.077.546 1.474.952.85.869 1.132 2.037
+                    1.132 3.368 0 .368-.014.733-.052 1.086.23.462.477 1.088.644 1.517 1.258.364 2.233 1.721 2.605 2.656a.832.832 0 0 1 .053.22v2.869a.641.641 0 0 1-.078.256ZM12.172 11h-.344a4.323 4.323 0 0
+                    1-.355.508C10.703 12.455 9.555 13 7.965 13c-1.725 0-2.989-.359-3.782-1.259a2.005 2.005 0 0 1-.085-.104L4 11.741v6.585c1.435.779 4.514 2.179 8 2.179 3.486 0 6.565-1.4
+                    8-2.179v-6.585l-.098-.104s-.033.045-.085.104c-.793.9-2.057 1.259-3.782 1.259-1.59 0-2.738-.545-3.508-1.492a4.323 4.323 0 0 1-.355-.508h-.016.016Zm.641-2.935c.136 1.057.403 1.913.878
+                    2.497.442.544 1.134.938 2.344.938 1.573 0 2.292-.337 2.657-.751.384-.435.558-1.15.558-2.361
+                    0-1.14-.243-1.847-.705-2.319-.477-.488-1.319-.862-2.824-1.025-1.487-.161-2.192.138-2.533.529-.269.307-.437.808-.438 1.578v.021c0 .265.021.562.063.893Zm-1.626
+                    0c.042-.331.063-.628.063-.894v-.02c-.001-.77-.169-1.271-.438-1.578-.341-.391-1.046-.69-2.533-.529-1.505.163-2.347.537-2.824 1.025-.462.472-.705 1.179-.705 2.319 0 1.211.175 1.926.558
+                    2.361.365.414 1.084.751 2.657.751 1.21 0 1.902-.394 2.344-.938.475-.584.742-1.44.878-2.497Z"></PATH><PATH d="M14.5 14.25a1 1 0 0 1 1 1v2a1 1 0 0 1-2 0v-2a1 1 0 0 1 1-1Zm-5 0a1 1 0 0 1 1
+                    1v2a1 1 0 0 1-2 0v-2a1 1 0 0 1 1-1Z"></PATH></SVG><SPAN class=NavLink-module__title__Q7t0p>GitHub Copilot</SPAN><SPAN class=NavLink-module__subtitle__X4gkW>Write better code with
+                    AI</SPAN></DIV></A>; outerText=GitHub Copilot
+                    Write better code with AI; tagName=A; class=NavLink-module__link__EG3d4; href=https://github.com/features/copilot;
+                    data-analytics-event={"action":"github_copilot","tag":"link","context":"platform","location":"navbar","label":"github_copilot_link_platform_navbar"}}...}
+ParsedHtml        : mshtml.HTMLDocumentClass
+RawContentLength  : 264718
